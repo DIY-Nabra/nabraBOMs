@@ -1,0 +1,21 @@
+023brando.osm
+==========
+| **Part** | **count** |
+|----------|-----------|
+|wsquin|2| 
+|wsqu2in|2| 
+|wsqu3in|2| 
+|wsqu4in|2| 
+|w4052|16| 
+|dip16_4052|4| 
+|qnpn|20| 
+|r3_220k|8| 
+|wtrin|4| 
+|r3_22k|20| 
+|cpoly103|8| 
+|do3|17| 
+|r3_470k|16| 
+|cpoly102|16| 
+|r3_0|4| 
+|wobelisk|1| 
+|cel1|1| 

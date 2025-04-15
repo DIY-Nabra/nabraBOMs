@@ -1,0 +1,27 @@
+trimin2.osm
+==========
+| **Part** | **count** |
+|----------|-----------|
+|r3_100k|9| 
+|qfet|6| 
+|r3_470|9| 
+|cpoly104|15| 
+|r3_1m|6| 
+|rrrvaractor|6| 
+|rrrmicabig|9| 
+|rrrcaptrim|3| 
+|r3_47k|3| 
+|cpoly102|3| 
+|wtrin|3| 
+|r3_220k|6| 
+|qnpn|6| 
+|r3_10k|9| 
+|r3_22k|6| 
+|r3_4.7k|3| 
+|rrrind|3| 
+|wsquin|3| 
+|wnob|3| 
+|wobelisk|1| 
+|do3|1| 
+|cpoly103|3| 
+|rrrspiral|3| 

@@ -1,0 +1,24 @@
+conrad_swoopspokes.osm
+==========
+| **Part** | **count** |
+|----------|-----------|
+|dip14_4013|5| 
+|r3_100k|20| 
+|qpnp|25| 
+|qnpn|20| 
+|r3_220k|25| 
+|r3_47k|10| 
+|wsquin|5| 
+|r3_22k|25| 
+|cel1|5| 
+|r3_470|20| 
+|dip8_082|5| 
+|r3_10k|5| 
+|wtrin|5| 
+|chairy|5| 
+|wsqu2in|5| 
+|r3|10| 
+|cpoly103|5| 
+|do3|11| 
+|wobelisk|1| 
+|cpoly104|1| 
