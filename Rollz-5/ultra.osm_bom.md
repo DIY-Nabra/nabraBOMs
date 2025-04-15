@@ -4,8 +4,8 @@ ultra.osm
 |----------|-----------|-----------|
 |dip14_4066|CD4066 |1| 
 |dip8_082|TL072 / TL082 |2| 
-|qnpn|BC557 |4| 
-|qpnp|BC547 |4| 
+|qnpn|BC547 |4| 
+|qpnp|BC557 |4| 
 |r3_220k|220k resistor |2| 
 |r3_22k|22k resistor |8| 
 |r3_2.2m|2.2Meg resistor |2| 
